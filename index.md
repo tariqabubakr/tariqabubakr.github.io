@@ -1,7 +1,6 @@
 ---
 title: "NBA Team Efficiency Analysis"
 author: "Tariq Abubakr"
-date: "1/25/2021"
 output:
  html_document: default
  pdf_document: default
