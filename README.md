@@ -1,4 +1,5 @@
-# NBA-Salary-Cap-Efficiency
-An analysis of the relationship between NBA teams' salary cap efficiency and their win percentages.
+# My Data Analysis Projects
+
+Using R, SQL, and other sources to find identify and solve to problems with data.
 
 
